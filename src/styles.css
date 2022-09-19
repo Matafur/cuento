@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat:ital,wght@0,100;0,300;0,400;0,700;1,400&display=swap');
+
+
+body{
+    background-color:darkslategrey;
+
+}
+.titulo{
+    text-align: center;
+    margin-top: 10%;
+    font-family: cursive;
+    text-decoration: line-through;
+    color: wheat;
+    background-color: azure;
+    width: 50%;
+    position: relative;
+    left: 30%;
+    border: 10px solid;
+    border-radius: 10px;
+    
+
+
+    
+}
+.referencia{
+    text-align: center;
+    font-family:'Indie Flower';
+    font-size:larger;
+    margin-left: 5%;
+    color: white;
+}
+
+.foto{
+    /*background-image: url(../media/don_ramon.jpg);*/
+    float: right;
+    size: 550px;
+    width: max-content;
+    height: 100px;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+.general {
+    color: #ffffff;
+    text-align: justify;
+    font-family:'Indie Flower';
+    font-size:larger;
+    padding-right: 50%;
+    margin-left: 5%;
+    }
+.final{
+    color: black;
+    font-weight:bolder;
+}
+.parrafo1{
+    background-color: black;
+}
+.parrafo2{
+    background-color: brown;
+}
